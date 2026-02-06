@@ -1,0 +1,1 @@
+print(f"Logged in as {bot.user} (ID: {bot.user.id})")
